@@ -93,7 +93,7 @@ pip install pandas matplotlib seaborn
 3. Open Jupyter Notebook and run:
 
    ```bash
-   jupyter notebook task-5-checkpoints.ipynb
+   jupyter notebook task-5.ipynb
    ```
 4. Run each cell step by step to reproduce analysis and plots.
 
@@ -101,7 +101,7 @@ pip install pandas matplotlib seaborn
 
 ## 📜 Deliverables
 
-* Jupyter Notebook: `task-5-checkpoints.ipynb`
+* Jupyter Notebook: `task-5.ipynb`
 * Summary Report: `task-5-summary.pdf`
 * Dataset: `zomato.csv`
 
